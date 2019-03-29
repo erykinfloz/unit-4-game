@@ -1,0 +1,26 @@
+body {
+  background-image: url("https://cdn.pixabay.com/photo/2016/04/15/04/02/water-1330252__340.jpg");
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+}
+
+.crystal-image {
+  width: 150px;
+  height: 150px;
+}
+#display {
+  background-color: black;
+  width: 200px;
+  text-align: center;
+  margin-top: 10px;
+  border-top: 100px white;
+}
+#wins {
+  color: white;
+}
+#losses {
+  color: white;
+}
+#score {
+  color: white;
+}
